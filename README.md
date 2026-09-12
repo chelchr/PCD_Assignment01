@@ -64,4 +64,4 @@ A lower MSE and higher PSNR indicate greater numerical similarity to the origina
 Python - NumPy - Panda - Matplotlib - Bantal - IPython - Google Colab 
 
 ### Report
-`report/PCD_Assignment01_Report.pdf` contains a three-page analysis, with one page dedicated to each input image.
+`report/PCD_Assignment01_Report.pdf` contains a three images analysis, with one page dedicated to each input image.
